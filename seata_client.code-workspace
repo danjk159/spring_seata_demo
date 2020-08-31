@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "seata-account-service2003"
+		},
+		{
+			"path": "seata-order-service2001"
+		},
+		{
+			"path": "seata-storage-service2002"
+		}
+	]
+}

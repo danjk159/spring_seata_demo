@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SeataOrderMainApp2001<seata-order-service2001>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.alibaba.SeataOrderMainApp2001",
+            "projectName": "seata-order-service2001",
+            "args": ""
+        }
+    ]
+}

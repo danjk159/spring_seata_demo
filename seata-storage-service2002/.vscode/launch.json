@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SeataStorageServiceApplication2002<seata-storage-service2002>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.alibaba.SeataStorageServiceApplication2002",
+            "projectName": "seata-storage-service2002",
+            "args": ""
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SeataAccountMainApp2003<seata-account-service2003>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.alibaba.SeataAccountMainApp2003",
+            "projectName": "seata-account-service2003",
+            "args": ""
+        }
+    ]
+}
